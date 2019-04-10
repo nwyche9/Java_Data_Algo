@@ -2,4 +2,4 @@
 
   This is a repository of data structures and algorithms written in the Java programming language. 
   
-  Hashtables is my Java implementation of a hashtable while not using the JDK.  
+  Hashtable is my Java implementation of a hashtable while not using the JDK.  
