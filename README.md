@@ -20,4 +20,4 @@
 
   InsertionSort is a folder with an implementation for an insertion sort algorithm.
   
-  
+  SelectionSort is a folder with multiple implemenations of insertion sort algorithms for the future. 
