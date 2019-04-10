@@ -14,4 +14,4 @@
   
   LinkedStack is an implementation of a stack backed by a LinkedList data structure.
   
-  
+  EmployeeLinkedList is an implementation of a linked list. 
