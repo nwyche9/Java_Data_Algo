@@ -12,6 +12,6 @@
   
   Queue_Array is a queue implementation using an array as the backing data structure.
   
-    StackLL is an implementation of a stack backed by a LinkedList data structure.
+  StackLL is an implementation of a stack backed by a LinkedList data structure.
   
   
