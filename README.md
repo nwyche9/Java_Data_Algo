@@ -10,4 +10,6 @@
   
   DblLinkedList is a doubly linked list implementation in Java.
   
+  Queue_Array is a queue implementation using an array as the backing data structure.
+  
   
