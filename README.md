@@ -16,5 +16,8 @@
   
   EmployeeLinkedList is an implementation of a linked list. 
   
-  BubbleSort is a folder with an implemementation of a bubblesort algorithm.
-    checkout the comments for more
+  BubbleSort is a folder with an implemementation of a bubble sort algorithm.
+
+  InsertionSort is a folder with an implementation for an insertion sort algorithm.
+  
+  
