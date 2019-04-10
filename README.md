@@ -6,4 +6,8 @@
   
   Bucket sort is an implementation of the Bucket Sort search algorithm.
   
+  Stack is an implementation of a stack using a backing array.
+  
+  DblLinkedList is a doubly linked list implementation in Java.
+  
   
