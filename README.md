@@ -15,3 +15,6 @@
   LinkedStack is an implementation of a stack backed by a LinkedList data structure.
   
   EmployeeLinkedList is an implementation of a linked list. 
+  
+  BubbleSort is a folder with an implemementation of a bubblesort algorithm.
+    checkout the comments for more
