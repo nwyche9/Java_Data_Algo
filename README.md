@@ -4,8 +4,6 @@
   
     src holds a hashtable which is a Java implementation of a hashtable while not using the JDK.  
 
-    Bucket sort is an implementation of the Bucket Sort search algorithm.
-
     Stack is an implementation of a stack using a backing array.
 
     DblLinkedList is a doubly linked list implementation in Java.
@@ -22,12 +20,12 @@
 
     SelectionSort is a folder with multiple implemenations of insertion sort algorithms for the future. 
 
-    Binary Search is a folder with an implementation of the Binary Search algorithm
+    Binary Search is a folder with an implementation of the Binary Search algorithm.
     
-    Binary Search Tree is a folder with an implementation of a Binary Search Tree using an array as a backing structure
+    Binary Search Tree is a folder with an implementation of a Binary Search Tree using an array as a backing structure.
     
-    Heaps is a folder with an implementation of a heap data structure using an array as a backing structure
+    Heaps is a folder with an implementation of a heap data structure using an array as a backing structure.
     
-    Bucket Sort is a folder with an implementation of the Bucket Sort algorithm
+    Bucket Sort is a folder with an implementation of the Bucket Sort algorithm.
     
-    Stacks is a folder with an implementation of the Stack data strucutre
+    Stacks is a folder with an implementation of the Stack data strucutre.
