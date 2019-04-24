@@ -4,8 +4,6 @@
   
     src holds a hashtable which is a Java implementation of a hashtable while not using the JDK.  
 
-    Stack is an implementation of a stack using a backing array.
-
     DblLinkedList is a doubly linked list implementation in Java.
 
     Queue_Array is a queue implementation using an array as the backing data structure.
