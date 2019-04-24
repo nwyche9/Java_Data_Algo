@@ -28,4 +28,6 @@
     
     Heaps is a folder with an implementation of a heap data structure using an array as a backing structure
     
-    Bucket Sort is a folder with an implementaiton of the Bucket Sort algorithm
+    Bucket Sort is a folder with an implementation of the Bucket Sort algorithm
+    
+    Stacks is a folder with an implementation of the Stack data strucutre
