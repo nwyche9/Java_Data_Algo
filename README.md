@@ -25,3 +25,5 @@
     Binary Search is a folder with an implementation of the Binary Search algorithm
     
     Binary Search Tree is a folder with an implementation of a Binary Search Tree
+    
+    Heaps is a folder with an implementation of a heap data structure
