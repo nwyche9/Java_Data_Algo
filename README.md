@@ -27,3 +27,5 @@
     Binary Search Tree is a folder with an implementation of a Binary Search Tree using an array as a backing structure
     
     Heaps is a folder with an implementation of a heap data structure using an array as a backing structure
+    
+    Bucket Sort is a folder with an implementaiton of the Bucket Sort algorithm
