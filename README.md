@@ -29,3 +29,5 @@
     LinkedList is a folder with an implementation of a linked list data structure.
     
     StackLL is a folder with an implmentation of the Stack data structure using an linked list as the backing data structure. 
+    
+    ArrayList is a folder with an implementation of a List data structure using an array as the backing data structure. 
