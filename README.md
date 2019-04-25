@@ -27,3 +27,5 @@
     Stacks is a folder with an implementation of the Stack data strucutre using an array as the backing data structure.
     
     LinkedList is a folder with an implementation of a linked list data structure.
+    
+    StackLL is a folder with an implmentation of the Stack data structure using an linked list as the backing data structure. 
