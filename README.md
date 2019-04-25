@@ -24,6 +24,6 @@
     
     Bucket Sort is a folder with an implementation of the Bucket Sort algorithm.
     
-    Stacks is a folder with an implementation of the Stack data strucutre.
+    Stacks is a folder with an implementation of the Stack data strucutre using an array as the backing data structure.
     
     LinkedList is a folder with an implementation of a linked list data structure.
